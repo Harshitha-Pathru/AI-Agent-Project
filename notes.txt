@@ -3,3 +3,14 @@ No external tools used . For automating mundane tasks we go through daily.
 Custom data /AI solutions for clients
 Underlying principles/Fundamental Principles.
 Core Building Blocks
+
+Step 1: Get api_key of respective LLM you want to work with and store it secretly.
+Step1.1:Create the llm model object with model specifications and response.
+Step 2: Structured Output- Ensure responses adhere to JSON Schema - response should be in JSON format
+
+Why in JSOn format: we can use them in our app programmatically inorder to make decisions to route certain things to get the right system prompt
+
+Step 3: Using tools
+Enable models to fetch data and take actions
+Step 4: Retrieval
+using tools to get data for context
