@@ -1,0 +1,5 @@
+Building AI Agent /Systems using python and Direct LLM API
+No external tools used . For automating mundane tasks we go through daily.
+Custom data /AI solutions for clients
+Underlying principles/Fundamental Principles.
+Core Building Blocks
